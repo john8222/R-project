@@ -7,6 +7,7 @@ NCOL(1:12)   #1
 NROW(1:12)   #12
 boot::
   Matrix::
+git .depository
   
   
   
